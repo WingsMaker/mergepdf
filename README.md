@@ -30,19 +30,19 @@ Writing metadata<br>
 [2] dec_pdf.py<br>
 convert password protected PDF into normal PDF document<br>
 <br>
-dec_pdf2txt.py<br>
+[3] dec_pdf2txt.py<br>
 extract text from a password protected PDF<br>
 <br>
-enc_pdf.py<br>
+[4] enc_pdf.py<br>
 convert into password protected PDF from a normal PDF document<br>
 <br>
-mergepdf.py<br>
+[5] mergepdf.py<br>
 Merging PDF files into one copy of PDF document<br>
 <br>
-readpdf.py<br>
+[6] readpdf.py<br>
 Read the text inside a given PDF document<br>
 <br>
-rotatepdf.py<br>
+[7] rotatepdf.py<br>
 Rotate each pages of a PDF document by 90 degree<br>
 <br>
 
